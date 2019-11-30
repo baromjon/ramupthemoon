@@ -24,7 +24,7 @@ github address: https://github.com/baromjon/ramupthemoon
 ## Airdrop rule 1
 ### Send the start EOS ram mining seed
 
-Start block time:   2019-11-30T14:00:00.000 
+Start block time:   2019-11-30T12:00:00.000 
 
 Step: 
 your EOS account sends 0.0001 EOS to contract mining address ramupthemoon with memo seed, it will immediately send 0.0001 RUTM and 0.0001 EOS tokens to you,  The process is as follows:
