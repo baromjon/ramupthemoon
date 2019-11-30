@@ -38,3 +38,5 @@ ramupthemoon → 0.0001 RUTM and 0.0001 EOS → EOS account;
 The total number of seeds：1000 seeds.
 
 After 1,000 EOS RAM mining seeds have been released, then announce the EOS RAM mining rules and mining time .
+
+***Tip: the contract account cannot participate in the activity.***  
