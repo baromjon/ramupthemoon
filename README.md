@@ -4,7 +4,7 @@ EOS CPU rental price increased 30 times after EOS CPU mining!
 
 EOS ram is too cheap and should be more valuable!
 
-At present, the EOS RAM pool has 4.46 million EOS(72G RAM), including B1 3.3 million (now shrunk to 2.34 million) 32G, 10.3G (750,000) has been used, B1 + 10.3G has been used = 3.1 million EOS, there are only 136 million EOS in the pool, most of holder are wallets and project owners, and hardcore holders such as wangruixiwww, have no speculation. The 10th holder is only 30,000 EOS.
+At present, the EOS RAM pool has 4.46 million EOS(72G RAM), including B1 3.3 million (now shrunk to 2.34 million) 32G, 10.3G (750,000) has been used, B1 + 10.3G has been used = 3.1 million EOS, there are only 1.36 million EOS in the pool, most of holder are wallets and project owners, and hardcore holders such as wangruixiwww, have no speculation. The 10th holder is only 30,000 EOS.
 
 RUTM token is live on EOS chain through EOS RAM mining.
 
