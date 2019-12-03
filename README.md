@@ -76,4 +76,11 @@ EOS RAM mining let you feels the charm of price model of EOS RAM.
 ***Tip: the contract account cannot participate in the activity.***  
 
 
+## [2019-12-03] Contract operating instructions:
 
+1. RUTM is the release certificate that the user mortgages RAM to the contract account. Only an equal amount of RAM can be released from the mortgage. 
+
+For example:
+ if you have mortgaged 100KB RAM and you have 200 RUTM in your account, then only 100 RUTM can release 100KB RAM, and the extra 100 RUTM needs to be sold on the market. Unable to release more than 100KB of RAM from your account.
+
+2. If you are involved in this project, assess the risks yourself.
